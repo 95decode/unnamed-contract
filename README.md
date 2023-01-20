@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Unnamed contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+This is a fully on chain NFT project. I haven't decided on a repo name yet.
